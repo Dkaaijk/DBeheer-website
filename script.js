@@ -1,2 +1,1 @@
-// JS for future interactions or animations
-console.log("Starlight Electric website loaded.");
+console.log("Website succesvol geladen (NL versie).");
